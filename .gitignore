@@ -1,0 +1,11 @@
+.DS_Store
+/.idea
+/.project
+/.pydevproject
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+*.pyc
